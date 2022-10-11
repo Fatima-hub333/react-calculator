@@ -6,7 +6,7 @@ A simple Tip Calculator that calculates tip amount for various percentages of th
 
 ![screenshot](preview.png)
 
-## [LiveDemo](https://color-website-delta.vercel.app/)
+## [LiveDemo](https://react-calculator-blond-omega.vercel.app/)
 
 ## Built With
 
